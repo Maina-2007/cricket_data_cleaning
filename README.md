@@ -1,13 +1,13 @@
-# 🏏 Cricket Data Cleaning and Preparation
+#  Cricket Data Cleaning and Preparation
 
-## 📘 Project Overview
+##  Project Overview
 This project focuses on cleaning and preparing a **raw cricket dataset** for further analysis and visualization. The dataset contained inconsistencies, missing values, and formatting issues, which were systematically addressed using **Python (Pandas, NumPy)** in **Jupyter Notebook**.
 
 The cleaned dataset is now ready for use in performance analytics, trend detection, and predictive modeling.
 
 ---
 
-## 🧹 Steps in Data Cleaning
+##  Steps in Data Cleaning
 
 1. **Data Inspection**
    - Loaded the raw cricket dataset and explored its structure using `df.info()` and `df.describe()`.
@@ -55,7 +55,7 @@ The cleaned dataset is now ready for use in performance analytics, trend detecti
 
 ---
 
-## 👨 Author
+##  Author
 
 **Charles Maina**  
 Data Analyst | Python | Excel | Power BI  
