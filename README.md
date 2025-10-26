@@ -4,6 +4,11 @@
 This project focuses on cleaning and preparing a **raw cricket dataset** for further analysis and visualization. The dataset contained inconsistencies, missing values, and formatting issues, which were systematically addressed using **Python (Pandas, NumPy)** in **Jupyter Notebook**.
 
 The cleaned dataset is now ready for use in performance analytics, trend detection, and predictive modeling.
+# Cricket Data Cleaning Project
+
+## Preview of Cleaned Dataset
+
+![Cleaned Cricket Dataset](cricket_screenshot.jpg)
 
 ---
 
